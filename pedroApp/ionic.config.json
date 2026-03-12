@@ -1,0 +1,7 @@
+{
+  "name": "pedroApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
